@@ -1,4 +1,4 @@
-# Spotify Playlist Generator Web App
+# Spotify Setlist
 
 ## Overview
 
